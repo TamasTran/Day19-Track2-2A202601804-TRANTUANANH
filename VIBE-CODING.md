@@ -9,7 +9,7 @@ còn bạn đảm nhận vai *architect* và *reviewer*: mô tả intent → rev
 → accept hoặc reject. Bạn không gõ từng dòng `for` loop; bạn ép spec rõ
 ràng và đảm bảo không có bug ngầm trong diff trả về.
 
-Vibe coding ≠ "copy-paste từ ChatGPT". Vibe coding là một *workflow*:
+Vibe coding ≠ "copy-/paste từ ChatGPT". Vibe coding là một *workflow*:
 
 ```
    intent (spec)
